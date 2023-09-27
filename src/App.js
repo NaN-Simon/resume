@@ -1,5 +1,5 @@
 import React from 'react';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import Home from './pages/Home';
 import Meme from './pages/Meme';
 import Error from './pages/Error';
@@ -11,7 +11,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import './index.css';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Home />,
