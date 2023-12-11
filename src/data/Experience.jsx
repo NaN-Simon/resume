@@ -17,16 +17,29 @@ const Experience = () => {
       <div>
         <h3 style={{paddingBottom: '10px', fontVariant: 'all-small-caps'}}>Experience</h3>
         <MarkedItem
-          years='2022-2023'
-          header='ПАО Татнефть'
+          years='2023 (2 месяца)'
+          header='Стартап - ООО телега.тв'
           title='Frontend разработчик'
         >
         <h5 className='py-2'>Задачи:</h5>
-        <li>Создание адаптивных компонентов на основе React и material-ui;</li>
-        <li>Создание форм (react-hook-form) для сбора, обработки и хранения информации о скважинах (виды работ, время выполнения, потери в период простоя);</li>
-        <li>Отправка данных на сервер (axios)</li>
-        <li>Подключение к API</li>
-        <li>работа с авторизацией, в том числе настройка прав и ролей пользователей;</li>
+        <li>Разработка видеоплеера для обработки видео</li>
+        <li>Динамическая загрузка файлов (drag & drop, процесс загрузки)</li>
+        <li>Работа с таймлайном и группами пользователей</li>
+        <h5 className='py-2'>Обретенные навыки:</h5>
+        <li>VUE 3, nuxt, pinia, XHR, plyr, wavesurfer</li>
+        </MarkedItem>
+        <MarkedItem
+          years='2022-2023 (1.5 года)'
+          header='Компания - ПАО Татнефть'
+          title='Frontend разработчик'
+        >
+        <h5 className='py-2'>Задачи:</h5>
+        <li>Разработка адаптивных компонентов;</li>
+        <li>Создание форм, таблиц, графиков для сбора, обработки(поиск, фильтр) и хранения информации;</li>
+        <li>API</li>
+        <li>Авторизация, права и роли пользователей;</li>
+        <h5 className='py-2'>Обретенные навыки:</h5>
+        <li>React, RTK Query, react-query, axios, react-hook-form, material-ui</li>
         <h5 className='py-2'>Достижения:</h5>
         <li>Предложил и успешно внедрил асинхронный стейт менеджер react-query;</li>
         </MarkedItem>
