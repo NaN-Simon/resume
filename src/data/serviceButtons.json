@@ -1,0 +1,24 @@
+{
+    "ru": {
+      "resume": "Резюме",
+      "experience": "Опыт",
+      "portfolio": "Портфолио",
+      "tasks": "Задачи",  
+      "technologies": "Технологии",
+      "contacts": "Контакты",
+      "description": "Описание",
+      "send": "Написать на почту",
+      "fullDescription": "полное описание"
+    },
+    "en": {
+      "resume": "Resume",
+      "experience": "Experience",
+      "portfolio": "Portfolio",
+      "tasks": "Tasks",
+      "technologies": "Technologies",
+      "contacts": "Contacts",
+      "description": "Description",
+      "send": "Send email",
+      "fullDescription": "full description"
+    }
+}

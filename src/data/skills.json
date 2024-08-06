@@ -1,0 +1,103 @@
+{
+    "technologies": {
+        "markup": [
+            {
+                "HTML": "/images/skills/html.png"
+            },
+            {
+                "Pug": "/images/skills/pug.png"
+            }
+        ],
+        "styles": [
+            {
+                "CSS": "/images/skills/css.png"
+            },
+            {
+                "SASS": "/images/skills/sass.png"
+            }
+        ],
+        "scripts": [
+            {
+                "JavaScript (ES5, ES6)": "/images/skills/javascript.png"
+            },
+            {
+                "Typescript": "/images/skills/typescript.png"
+            }
+        ],
+        "node": [
+            {
+                "Node.js (базовое)": "/images/skills/node.png"
+            }
+        ]
+    },
+    "frameworks": {
+        "react": [
+            {
+                "REACT": "/images/skills/react.png"
+            },
+            {
+                "Next-JS": "/images/skills/nextjs.png"
+            }
+        ],
+        "otherFramework": [
+            {
+                "Astro": "/images/skills/astro.svg"
+            },
+            {
+                "Webpack": "/images/skills/webpack.svg"
+            }
+        ]
+    },
+    "storage": {
+        "storage": [
+            {
+                "Redux": "/images/skills/redux.svg"
+            },
+            {
+                "RTK Query": "/images/skills/redux.svg"
+            },
+            {
+                "React-Query": "/images/skills/react-query.svg"
+            }
+        ]
+    },
+    "design": {
+        "design": [
+            {
+                "Tailwind": "/images/skills/tailwind.svg"
+            },
+            {
+                "shadcn/ui": "/images/skills/shadcn.svg"
+            },
+            {
+                "Styled-component": "/images/skills/styled.svg"
+            },
+            {
+                "Material-UI": "/images/skills/material.svg"
+            },
+            {
+                "Bootstrap": "/images/skills/bootstrap.svg"
+            }
+        ]
+    },
+    "methodology": {
+        "methodology": [
+            "BEM",
+            "SOLID",
+            "Adaptive"
+        ]
+    },
+    "other": {
+        "other": [
+            "AXIOS",
+            "AJAX",
+            "Git",
+            "Jest",
+            "Docker",
+            "API chatGPT",
+            "Copilot",
+            "PixelPerfect",
+            "NPM"
+        ]
+    }
+}

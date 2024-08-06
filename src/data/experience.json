@@ -1,0 +1,301 @@
+{
+    "ru": [
+        {
+            "company": "ООО ДИАЛПРО",
+            "specificity": "Реклама и маркетинг",
+            "position": "Frontend-разработчик + Системный администратор",
+            "date": "Февраль 2024 — по настоящее время",
+            "sumDate": "6 месяцев",
+            "tasks": [
+                "Создание сайтов SSR на Astro и NextJS",
+                "локализация",
+                "настройка SEO",
+                "загрузка на сервер",
+                "настройка сервера",
+                "подключение DNS",
+                "работа с API chatGPT",
+                "генерация блоков сайтов с динамическим наполнением",
+                "поддержка и рефакторинг уже имеющегося кода (так же частично бэкенда на nodeJS)",
+                "кастомные хуки",
+                "валидация"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "NextJS",
+                "API chatGPT",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL"
+            ]
+        },
+        {
+            "company": "массаж.експресс",
+            "site": "massage.express",
+            "specificity": "сайт визитка - фриланс",
+            "position": "Frontend-разработчик + Системный администратор",
+            "date": "июль 2024 — июль 2024",
+            "sumDate": "1 неделя",
+            "tasks": [
+                "SSR",
+                "загрузка на сервер",
+                "настройка сервера",
+                "подключение DNS",
+                "анимации",
+                "формы",
+                "обратная связь",
+                "смена языка"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL",
+                "Tailwindcss-animated",
+                "i18next"
+            ]
+        },
+        {
+            "company": "умка.ворк",
+            "site": "umka.work",
+            "specificity": "сайт визитка - фриланс",
+            "position": "Frontend-разработчик + Системный администратор",
+            "date": "июнь 2024 — июнь 2024",
+            "sumDate": "1 неделя",
+            "tasks": [
+                "SSR",
+                "загрузка на сервер",
+                "настройка сервера",
+                "подключение DNS",
+                "анимации",
+                "формы",
+                "обратная связь"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL",
+                "Tailwindcss-animated"
+            ]
+        },
+        {
+            "company": "ООО Телега.тв",
+            "specificity": "Видеосервис - стартап",
+            "position": "Frontend-разработчик",
+            "date": "Ноябрь 2023 — Январь 2024",
+            "sumDate": "3 месяца",
+            "tasks": [
+                "Разработка видеоплеера для обработки видео.",
+                "Динамическая загрузка файлов.",
+                "Работа с таймлайном и группами пользователей."
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Vue3",
+                "NuxtJS",
+                "Pinia",
+                "drag & drop",
+                "xhr",
+                "rest"
+            ]
+        },
+        {
+            "company": "ПАО Татнефть",
+            "specificity": "Нефтяная промышленность",
+            "position": "Frontend-разработчик",
+            "date": "Май 2022 — Октябрь 2023",
+            "sumDate": "1 год 6 месяцев",
+            "tasks": [
+                "Разработка адаптивных реактивных компонентов.",
+                "Разработка параметров авторизации и ролей пользователей.",
+                "Разработка форм, таблиц, графиков."
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "react-query",
+                "react-hook-form",
+                "TypeScript"
+            ]
+        }
+    ],
+    "en": [
+        {
+            "company": "DialPro L.L.C-FZ",
+            "specificity": "Advertising and Marketing",
+            "position": "Frontend Developer + System Administrator",
+            "date": "February 2024 — Present",
+            "sumDate": "6 months",
+            "tasks": [
+                "Creating SSR sites on Astro and NextJS",
+                "localization",
+                "SEO setup",
+                "uploading to server",
+                "server setup",
+                "DNS connection",
+                "working with chatGPT API",
+                "generation of site blocks with dynamic content",
+                "support and refactoring of existing code (also partially backend on nodeJS)",
+                "custom hooks",
+                "validation"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "NextJS",
+                "API chatGPT",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL"
+            ]
+        },
+        {
+            "company": "massage.express",
+            "site": "massage.express",
+            "specificity": "landing page - freelance",
+            "position": "Frontend Developer + System Administrator",
+            "date": "July 2024 — July 2024",
+            "sumDate": "1 week",
+            "tasks": [
+                "SSR",
+                "upload to server",
+                "server setup",
+                "connect DNS",
+                "animations",
+                "forms",
+                "feedback",
+                "change language"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL",
+                "Tailwindcss-animated"
+            ]
+        },
+        {
+            "company": "umka.work",
+            "site": "umka.work",
+            "specificity": "landing page - freelance",
+            "position": "Frontend Developer + System Administrator",
+            "date": "June 2024 — June 2024",
+            "sumDate": "1 week",
+            "tasks": [
+                "SSR",
+                "upload to server",
+                "server setup",
+                "connect DNS",
+                "animations",
+                "forms",
+                "feedback"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Tailwind",
+                "Shadcn",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Astro",
+                "DNS",
+                "SEO",
+                "SSH",
+                "SSL",
+                "Tailwindcss-animated"
+            ]
+        },
+        {
+            "company": "Telega.tv LLC",
+            "specificity": "Video service - Startup",
+            "position": "Frontend Developer",
+            "date": "November 2023 — January 2024",
+            "sumDate": "3 months",
+            "tasks": [
+                "Developing a video player for video processing",
+                "Dynamic file uploading",
+                "Working with timeline and user groups"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "SSR",
+                "Vue3",
+                "NuxtJS",
+                "Pinia",
+                "drag & drop",
+                "xhr",
+                "rest"
+            ]
+        },
+        {
+            "company": "PJSC Tatneft",
+            "specificity": "Oil industry",
+            "position": "Frontend Developer",
+            "date": "May 2022 — October 2023",
+            "sumDate": "1 year 6 months",
+            "tasks": [
+                "Developing adaptive reactive components",
+                "Developing user authorization and role parameters",
+                "Developing forms, tables, charts"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "react-query",
+                "react-hook-form",
+                "TypeScript"
+            ]
+        }
+    ]
+}

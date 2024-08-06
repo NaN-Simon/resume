@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-padding-top: 64px;
+  scroll-behavior: smooth;
+  font-family: sans-serif;
+  background: #ffffff;
+  background-size: 224px;
+  height: 100%;
+}
+
+  @font-face {
+    font-family: 'Unbounded';
+    src: url('/fonts/Unbounded.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: normal; 
+  }
+  @font-face {
+    font-family: 'Exo2';
+    src: url('/fonts/Exo2-Bold.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: bold; 
+  }
+  @font-face {
+    font-family: 'Exo2';
+    src: url('/fonts/Exo2-Light.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: 300; 
+  }
+  @font-face {
+    font-family: 'Exo2';
+    src: url('/fonts/Exo2-Medium.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: 500; 
+  }
+  @font-face {
+    font-family: 'Exo2';
+    src: url('/fonts/Exo2-Regular.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: normal; 
+  }
+  @font-face {
+    font-family: 'Exo2';
+    src: url('/fonts/Exo2-Thin.ttf') format('TrueType');
+    font-style: normal; 
+    font-weight: 100; 
+  }

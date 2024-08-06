@@ -1,0 +1,14 @@
+{
+    "en": [
+        { "name": "Home", "href": "/en" },
+        { "name": "Experience", "href": "/en/#experience" },
+        { "name": "Portfolio", "href": "/en/#portfolio" },
+        { "name": "Contacts", "href": "/en/#contacts" }
+    ],
+    "ru": [
+        { "name": "Главная", "href": "/" },
+        { "name": "Опыт", "href": "#experience" },
+        { "name": "Портфолио", "href": "#portfolio" },
+        { "name": "Контакты", "href": "#contacts" }
+    ]
+}

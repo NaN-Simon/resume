@@ -1,0 +1,33 @@
+---
+import "@/styles/globals.css";
+import i18next, { changeLanguage } from "i18next";
+import Layout from "@/layouts/Layout.astro";
+import Content from "@/components/Content";
+import Skills from "@/components/Skills";
+import { profileData, skillsData, experienceData, portfolioData, socialsData, } from "@/data/index.js";
+import { EnRuKeys } from "@/types/lang.types";
+
+changeLanguage("en");
+
+// const supportedLanguages = i18next.languages;
+const lang = i18next.language;
+---
+
+<Layout title="KIRILL RESUME" lang={lang} socials={socialsData} name={profileData[(lang as EnRuKeys)].name}>
+  <div class="min-h-[100vh]">
+    <div class="flex flex-col sm:flex-row px-1 md:px-6 pt-5">
+      <div class="order-1 sm:order-none w-full sm:w-2/6 xl:w-1/5">
+        <Skills skills={skillsData} client:load />
+      </div>
+      <div class="w-full sm:w-4/6 xl:w-4/5">
+        <Content
+          lang={lang}
+          profile={profileData}
+          experience={experienceData}
+          portfolio={portfolioData}
+          client:load
+        />
+      </div>
+    </div>
+  </div>
+</Layout>

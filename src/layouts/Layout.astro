@@ -1,0 +1,36 @@
+---
+import 'animate.css';
+
+import Contacts from '@/components/Contacts';
+import Footer from '@/components/Footer';
+import Header from '@/components/Header';
+
+import { ISocialsData } from '@/types/socials.types';
+
+const { title, lang, socials, name } = Astro.props;
+interface Props {
+  title: string;
+  lang: string;
+  socials: ISocialsData;
+  name: string;
+}
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Курсы и учебно-методические комплексы" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+  </head>
+  <body class="font-exo2 w-screen overflow-x-hidden text-light dark:text-dark bg-light dark:bg-dark">
+    <Header lang={lang} telegram={socials.telegram} client:load />
+    <div class="pt-16"></div>
+    <slot />
+    <Contacts lang={lang} data={socials} client:load/>
+    <Footer name={name}/>
+  </body>
+</html>

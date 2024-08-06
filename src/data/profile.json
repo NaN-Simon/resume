@@ -1,0 +1,15 @@
+{
+    "ru": {
+        "name": "Исаев Кирилл",
+        "position": "Фронтенд разработчик",
+        "avatar": "/images/avatar.jpg",
+        "description": "Использую всё, что делает мою работу быстрее и качественней. В поиске удаленной работы или офис. Работал с chatGPT API, частично работал с бэкендом(NodeJS), SEO, работа с сервером(создание, настройка, загрузка, DNS), анимации, drag and drop, jwt, xhr, rest, graphql, таблицы и графики на основе большого кол-ва переменных, верстка, валидация, формы."
+    },
+    "en": {
+        "name": "Isaev Kirill",
+        "position": "Frontend developer",
+        "avatar": "/images/avatar.jpg",
+        "description": "I use everything that makes my work faster and better. Looking for a remote job or office. Worked with chatGPT API, partially worked with the backend (NodeJS), SEO, working with the server (creation, configuration, loading, DNS), animations, drag and drop, jwt, xhr, rest, graphql, tables and graphs based on a large number of variables, layout, validation, forms."
+
+    }
+}

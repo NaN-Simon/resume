@@ -1,0 +1,212 @@
+{
+    "ru": [
+        {
+            "name": "Greenshop React",
+            "github": "github.com/NaN-Simon/GreenshopReact",
+            "demo": "nan-simon.github.io/GreenshopReact",
+            "description": "Сайт магазина растений. Страница магазина, каждого товары на основе запроса к фейкапи jsonplaceholder (для эмуляции). Дизайн из фигмы.",
+            "fullDescription": "github.com/NaN-Simon/GreenshopReact#description",
+            "tasks": [
+                "сортировка",
+                "фильтры",
+                "динамические страницы товаров",
+                "пагинация",
+                "формы",
+                "всплывающие окна",
+                "карусель новостей",
+                "валидация",
+                "кастомные хуки"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "react-hook-form",
+                "styled-components",
+                "yup",
+                "react-paginate",
+                "react-tabs",
+                "rc-slider",
+                "framer-motion"
+            ],
+            "images": [
+                "/images/greenshop/1.jpg",
+                "/images/greenshop/2.jpg",
+                "/images/greenshop/3.jpg",
+                "/images/greenshop/4.jpg"
+            ]
+        },
+        {
+            "name": "Twitter Clone - Social Network",
+            "github": "github.com/NaN-Simon/twitter-clone-frontend",
+            "demo": "twitter-clone-frontend-eta.vercel.app/",
+            "description": "Командный проект backend + frontend. В демо некоторые функции основного приложения реализованы, но их нет в демо ввиду отсутствия бэкенд клиента. Во время создания приложения использовалось контейнерное программное обеспечение Docker.",
+            "fullDescription": "github.com/NaN-Simon/GreenshopReact#info",
+            "tasks": [
+                "создание твитов",
+                "ретвит",
+                "лайк",
+                "комментирование постов",
+                "порционный прогруз постов",
+                "динамические страницы пользователей",
+                "редактирование иноформации о пользователе",
+                "поиск пользователей",
+                "авторизация и регистрация по jwt токену"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "NextJS",
+                "Axios",
+                "react-query",
+                "react-hook-form",
+                "Material UI"
+            ],
+            "images": [
+                "/images/twitterClone/1.jpg",
+                "/images/twitterClone/2.jpg",
+                "/images/twitterClone/3.jpg",
+                "/images/twitterClone/4.jpg"
+            ]
+        },
+        {
+            "name": "UI-Kit Hotel-Toxin-React",
+            "github": "github.com/NaN-Simon/hotel-toxin-react",
+            "demo": "nan-simon.github.io/hotel-toxin-react/",
+            "description": "один из первых проектов, дизайн которого был взят из курса Metalamp. Страницы: Color And Types, Form And Elements, Cards, Headers And Footers.",
+            "fullDescription": "github.com/NaN-Simon/hotel-toxin-react?tab=readme-ov-file#info",
+            "tasks": [
+                "кастомный выпадающий список",
+                "кастомный переключатель"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "SCSS",
+                "JavaScript",
+                "React",
+                "react-router-dom",
+                "TypeScript",
+                "Eslint",
+                "material-icons",
+                "Mixins"
+            ],
+            "images": [
+                "/images/hotelToxin/1.jpg",
+                "/images/hotelToxin/2.jpg",
+                "/images/hotelToxin/3.jpg",
+                "/images/hotelToxin/4.jpg"
+            ]
+        }
+    ],
+    "en": [
+        {
+            "name": "Greenshop React",
+            "github": "github.com/NaN-Simon/GreenshopReact",
+            "demo": "nan-simon.github.io/GreenshopReact",
+            "description": "Plant shop website. Shop and individual product pages based on a fake API call to jsonplaceholder (for emulation). Design from Figma.",
+            "fullDescription": "github.com/NaN-Simon/GreenshopReact#description",
+            "tasks": [
+                "sorting",
+                "filtering",
+                "dynamic product pages",
+                "pagination",
+                "forms",
+                "modal windows",
+                "news carousel",
+                "validation",
+                "custom hooks"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "react-hook-form",
+                "styled-components",
+                "yup",
+                "react-paginate",
+                "react-tabs",
+                "rc-slider",
+                "framer-motion"
+            ],
+            "images": [
+                "/images/greenshop/1.jpg",
+                "/images/greenshop/2.jpg",
+                "/images/greenshop/3.jpg",
+                "/images/greenshop/4.jpg"
+            ]
+        },
+        {
+            "name": "Twitter Clone - Social Network",
+            "github": "github.com/NaN-Simon/twitter-clone-frontend",
+            "demo": "twitter-clone-frontend-eta.vercel.app/",
+            "description": "A team project backend + frontend. In the demo, some functions of the main application are implemented, but they are not in the demo due to the lack of a backend client. During the creation of the application, the Docker container software was used.",
+            "fullDescription": "github.com/NaN-Simon/GreenshopReact#info",
+            "tasks": [
+                "creating tweets",
+                "retweet",
+                "like",
+                "commenting on posts",
+                "portioned loading of posts",
+                "dynamic user pages",
+                "editing user information",
+                "searching for users",
+                "authorization and registration by jwt token"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React",
+                "NextJS",
+                "Axios",
+                "react-query",
+                "react-hook-form",
+                "Material UI"
+            ],
+            "images": [
+                "/images/twitterClone/1.jpg",
+                "/images/twitterClone/2.jpg",
+                "/images/twitterClone/3.jpg",
+                "/images/twitterClone/4.jpg"
+            ]
+        },
+        {
+            "name": "UI-Kit Hotel-Toxin-React",
+            "github": "github.com/NaN-Simon/hotel-toxin-react",
+            "demo": "nan-simon.github.io/hotel-toxin-react/",
+            "description": "one of the first projects, the design of which was taken from the Metalamp course. Pages: Color And Types, Form And Elements, Cards, Headers And Footers.",
+            "fullDescription": "github.com/NaN-Simon/hotel-toxin-react?tab=readme-ov-file#info",
+            "tasks": [
+                "custom dropdown",
+                "custom switcher"
+            ],
+            "technologies": [
+                "HTML",
+                "CSS",
+                "SCSS",
+                "JavaScript",
+                "React",
+                "react-router-dom",
+                "TypeScript",
+                "Eslint",
+                "material-icons",
+                "Mixins"
+            ],
+            "images": [
+                "/images/hotelToxin/1.jpg",
+                "/images/hotelToxin/2.jpg",
+                "/images/hotelToxin/3.jpg",
+                "/images/hotelToxin/4.jpg"
+            ]
+        }
+    ]
+}
